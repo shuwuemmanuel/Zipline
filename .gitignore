@@ -1,0 +1,27 @@
+# Build output
+/build/
+/build-*/
+*.o
+*.obj
+*.a
+*.lib
+
+# Generated artifacts
+/dist/
+/test_out/
+/test_work/
+demo_archive.exe
+sfx_stub.exe
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Keep the sample inputs
+!test_files/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store

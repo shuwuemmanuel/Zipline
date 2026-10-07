@@ -1,0 +1,4 @@
+#ifndef ZIPLINE_STUB_RESOURCE_H
+#define ZIPLINE_STUB_RESOURCE_H
+#define IDI_APPICON 101
+#endif

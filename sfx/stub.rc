@@ -1,0 +1,3 @@
+#include "stub_resource.h"
+IDI_APPICON ICON "stub_icon.ico"
+1 24 "stub.manifest"
